@@ -1,49 +1,22 @@
-<h1 align="center">👋 Olá, eu sou o Jean!</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e inovação 🚀</h3>
-
----
-
-## 🧑‍💻 Sobre mim
-- 🎓 Cursando **Técnico em Análise e Desenvolvimento de Sistemas (2º período)**  
-- 💡 Buscando oportunidades de estágio para aprimorar minhas habilidades na área de **desenvolvimento web e software**   
-- 🏆 Certificado em **Lógica de Programação, HTML, CSS e Arquitetura CSS** pela Alura  
-- 🌱 Atualmente focado em aprimorar meu conhecimento em **JavaScript, React e Banco de Dados**  
-- 🌍 Inglês **básico**, em constante aprendizado  
-
----
-
-## 🚀 Habilidades Técnicas
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+## Bem vindo(a) ao meu perfil JeanFerreiraDev
+<div>
+   <a href="https://github.com/ferreirajean/JeanFerreiradev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanFerreiradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFerreiradev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
----
-
-## 📊 Soft Skills
-✅ Facilidade de aprendizado  
-✅ Criatividade  
-✅ Comunicação  
-✅ Adaptabilidade  
-✅ Proatividade  
-✅ Trabalho em equipe  
-
----
-
-## 📌 Objetivos  
-🔹 Consolidar minha carreira na área de **desenvolvimento de software e web**  
-🔹 Aprender **frameworks modernos** e aprofundar meus conhecimentos em **front-end** e **back-end**  
-🔹 Contribuir para projetos inovadores e adquirir experiência prática na área  
-
----
-
-## 📫 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jean-ferreira-4870521a0)  
-[![Email](https://img.shields.io/badge/Email-ferreirajean64@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreirajean64@gmail.com)  
-
----
-
-### 🚀 Obrigado por visitar meu perfil! Vamos nos conectar! 😊
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Me segue nas redes abaixo!
+ 
+<div> 
+  <a href="https://instagram.com/jeanferreira_02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:JeanFerreiradev64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/jean-ferreira-4870521a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
