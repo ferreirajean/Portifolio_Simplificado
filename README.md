@@ -2,7 +2,11 @@
 
 🎯 Técnico em Análise e Desenvolvimento de Sistemas (2º período)
 💡 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.  
-📌 Buscando uma oportunidade de estágio em TI para expandir meus conhecimentos e contribuir com projetos desafiadores.  
+
+
+📌 Buscando uma oportunidade de estágio em TI para expandir meus conhecimentos e contribuir com projetos desafiadores.
+
+
 🚀 Tecnologias e Habilidades  
 
 ✔ Linguagens e Ferramentas:
@@ -16,8 +20,8 @@
 
 📂 Projetos em Destaque  
 
-🔹 Portifolho Simplicado(#) – Pequena descrição do projeto.  
-🔹 Projeto GTA V(#) – Pequena descrição do projeto.  
+🔹 Projeto X-Men (https://github.com/ferreirajean/Projeto-X-Men)
+🔹 Projeto GTA V (https://github.com/ferreirajean/Projeto-GTA-V)  
 
 📌 Veja mais no meu repositório 👉 [GitHub](https://github.com/ferreirajean)
 
